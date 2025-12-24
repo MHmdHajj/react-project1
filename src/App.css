@@ -10,6 +10,11 @@
   /* optional: keep list from stretching too wide */
   max-width: 520px;
 }
+body{
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
 
 /* LI item (card) */
 .insidemain {
